@@ -1,0 +1,46 @@
+아래 테이블은 미완성 테이블입니다.
+producer의 code에 있는 값만 consumer의 code에 넣을 수 있도록 설정하세요.
+
+1. 모든 레코드 조회
+양쪽 테이블의 code pname cname cprice 형태로 조회하는 코드를 작성해보세요.
+
+2.레코드 삭제
+producer의 레코드를 삭제하면 producer의 code를 참고하는 consumer의 레코드도 같이 삭제되게 해보세요.
+
+
+
+create table producer(
+	code varchar2(10) primary key,
+	pname varchar2(10),
+	pprice number
+);
+
+create table consumer(
+	code varchar2(10) primary key,
+	cname varchar2(10),
+	cprice number,
+	caddr varchar2(10)
+);
+
+
+
+insert into producer
+values('A01','운동화',1000);
+
+
+insert into producer
+values('A02','원피스',2000);
+
+
+insert into producer
+values('A03','바지',3000);
+
+insert into consumer
+values('A01','전지현',1100,'서울');
+
+
+insert into consumer
+values('A02','김수현',2100,'부산');
+
+insert into consumer
+values('A03','아이유',3100,'제주');

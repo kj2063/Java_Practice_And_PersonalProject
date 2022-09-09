@@ -1,0 +1,15 @@
+create table idpw_test(
+	id varchar2(10) primary key,
+	pw varchar2(10)
+);
+
+declare
+	vid idpw_test.id%type;
+	vpw idpw_test.pw%type;
+begin
+	select id,pw into vid,vpw from idpw_test where id=? and pw=?;		
+	dbms_output.put_line('로그인 성공');
+exception when others then
+	dbms_output.put_line('존재는 계정이 아닙니다');
+end;
+/	

@@ -1,0 +1,37 @@
+
+L
+java:S1659" Declare "id" on a separate line.(•∏’”H˜0RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H˘0RMINORZ
+CODE_SMELL
+Y
+java:S1604+"(Make this anonymous inner class a lambda(›ãÕî˛ˇˇˇˇH˙0RMAJORZ
+CODE_SMELL
+É
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄH˚0RMAJORZBUG
+f
+java:S1141L"5Extract this nested try block into a separate method.(°ª¢¸˘ˇˇˇˇH¸0RMAJORZ
+CODE_SMELL
+f
+java:S11413"5Extract this nested try block into a separate method.(°ª¢¸˘ˇˇˇˇH˛0RMAJORZ
+CODE_SMELL
+â	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(òÔàûˇˇˇˇˇHÄ1RMINORZ
+CODE_SMELL
+Å
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(«µÌëHÉ1RCRITICALZ
+CODE_SMELL
+É
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(çî˝æHé1RMAJORZBUG
+G
+java:S3626"Remove this redundant jump.(…ä©ÉHê1RMINORZ
+CODE_SMELL
+l	java:S125G"<This block of commented-out lines of code should be removed.(µ—ÓÜ¸ˇˇˇˇHë1RMAJORZ
+CODE_SMELL
+w	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Íˇ±yHí1RMINORZ
+CODE_SMELL
+N
+java:S21892""Add an end condition to this loop.(òÔàûˇˇˇˇˇHì1RBLOCKERZBUG
+i	java:S106["9Replace this use of System.out or System.err by a logger.(à·˙§˝ˇˇˇˇHî1RMAJORZ
+CODE_SMELL

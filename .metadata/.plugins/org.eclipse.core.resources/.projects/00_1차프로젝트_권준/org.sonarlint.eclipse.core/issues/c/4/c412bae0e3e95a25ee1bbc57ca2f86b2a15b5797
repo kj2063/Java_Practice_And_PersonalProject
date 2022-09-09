@@ -1,0 +1,73 @@
+
+‚	java:S116"RRename this field "b_after" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ò•ÂüÿÿÿÿH¾4RMINORZ
+CODE_SMELL
+€	java:S116"PRename this field "b_cat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¸ôÛşÿÿÿÿH¿4RMINORZ
+CODE_SMELL
+€	java:S116"PRename this field "b_sta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¸ôÛşÿÿÿÿHÀ4RMINORZ
+CODE_SMELL
+	java:S116"QRename this field "b_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¸ôÛşÿÿÿÿHÁ4RMINORZ
+CODE_SMELL
+…	java:S116("URename this field "sta_modify" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÜ§ıÿÿÿÿHÂ4RMINORZ
+CODE_SMELL
+…	java:S116,"URename this field "name_field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šë“£úÿÿÿÿHÃ4RMINORZ
+CODE_SMELL
+„	java:S116,"TRename this field "tel_field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šë“£úÿÿÿÿHÄ4RMINORZ
+CODE_SMELL
+}	java:S116."RRename this field "sub_cat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÊ€HÅ4RMINORZ
+CODE_SMELL
+V
+java:S1659"%Declare "b_after" on a separate line.(„Ò•ÂüÿÿÿÿHÆ4RMINORZ
+CODE_SMELL
+s
+java:S1659"BDeclare "b_sta" and all following declarations on a separate line.(ê¸ôÛşÿÿÿÿHÈ4RMINORZ
+CODE_SMELL
+t
+java:S1659("CDeclare "modify" and all following declarations on a separate line.(ñÜ§ıÿÿÿÿHÌ4RMINORZ
+CODE_SMELL
+X
+java:S1659,"'Declare "tel_field" on a separate line.(Šë“£úÿÿÿÿHÔ4RMINORZ
+CODE_SMELL
+p
+java:S1659."DDeclare "sub_cat" and all following declarations on a separate line.(ÀÊ€HÖ4RMINORZ
+CODE_SMELL
+W
+java:S1948"#Make "b" transient or serializable.(„Ò•ÂüÿÿÿÿHà4RCRITICALZ
+CODE_SMELL
+]
+java:S1948")Make "b_after" transient or serializable.(„Ò•ÂüÿÿÿÿHá4RCRITICALZ
+CODE_SMELL
+T
+java:S1948"%Make "dao" transient or serializable.(ãİ£÷Hâ4RCRITICALZ
+CODE_SMELL
+O
+java:S3010P"#Remove this assignment of "choice".(–÷¨ëHã4RMAJORZ
+CODE_SMELL
+m	java:S125œ"<This block of commented-out lines of code should be removed.(·“×õúÿÿÿÿHå4RMAJORZ
+CODE_SMELL
+	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ñ‡ıÿÿÿÿHæ4RMINORZ
+CODE_SMELL
+e	java:S106ä"9Replace this use of System.out or System.err by a logger.(Êéİ²Hç4RMAJORZ
+CODE_SMELL
+j	java:S106è"9Replace this use of System.out or System.err by a logger.(±ù¾çúÿÿÿÿHè4RMAJORZ
+CODE_SMELL
+j	java:S106ì"9Replace this use of System.out or System.err by a logger.(î“˜ÿÿÿÿÿHé4RMAJORZ
+CODE_SMELL
+j	java:S106í"9Replace this use of System.out or System.err by a logger.(¬çÎïşÿÿÿÿHê4RMAJORZ
+CODE_SMELL
+e	java:S106ú"9Replace this use of System.out or System.err by a logger.(Ù¾ÅÁHë4RMAJORZ
+CODE_SMELL
+j	java:S106ş"9Replace this use of System.out or System.err by a logger.(ÙäŠöûÿÿÿÿHì4RMAJORZ
+CODE_SMELL
+j	java:S106‚"9Replace this use of System.out or System.err by a logger.(àµë‹üÿÿÿÿHí4RMAJORZ
+CODE_SMELL
+j	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¬çÎïşÿÿÿÿHî4RMAJORZ
+CODE_SMELL
+~
+java:S1192å"NDefine a constant instead of duplicating this literal "ì—ëŸ¬ ë°œìƒ" 6 times.(é¯•èHï4RCRITICALZ
+CODE_SMELL
+u
+java:S1192A"FDefine a constant instead of duplicating this literal "Serif" 6 times.(‹á„Hö4RCRITICALZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hı4RMINORZ
+CODE_SMELL

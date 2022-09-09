@@ -1,0 +1,17 @@
+
+F
+java:S1220""Move this file to a named package.H´4RMINORZ
+CODE_SMELL
+o
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÊÈ≤√H¨4RBLOCKERZBUG
+p
+java:S21474"DCombine this catch with the one at line 50, which has the same body.(…Æ£ùH≠4RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(∆ƒÏæ˙ˇˇˇˇHØ4RMAJORZ
+CODE_SMELL
+{
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒêœ∆¯ˇˇˇˇH±4RBLOCKERZBUG
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(ÓùìòˇˇˇˇˇH≤4RMAJORZ
+CODE_SMELL
+d	java:S106)"9Replace this use of System.out or System.err by a logger.( È›≤H≥4RMAJORZ
+CODE_SMELL

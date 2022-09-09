@@ -1,0 +1,50 @@
+
+drop table station cascade constraints;
+create table station(
+	sta varchar2(20) primary key
+);
+
+drop table proposer;
+create table proposer(
+	cat varchar2(10) not null,
+	sub_cat varchar2(20),
+	sta varchar2(20) references station(sta) on delete set null,
+	name varchar2(30) not null,
+	sign varchar2(300),
+	tel varchar2(11)
+);
+
+insert into station values('마두역');
+insert into station values('백마역');
+insert into station values('백석역');
+insert into station values('정발산역');
+insert into station values('종로5가역');
+insert into station values('홍대입구역');
+
+
+insert into proposer values('카페',null,'백석역','스타벅스',null,'03112341234');
+insert into proposer values('카페',null,'마두역','이디야 커피',null,null);
+insert into proposer values('카페',null,'백마역','쥬디스 커피','스파게티가 맛있는 카페("스파이시 뽈로" 꼭 먹어볼 것)','03133332222');
+insert into proposer values('카페',null,'홍대입구역','스타게이즈','우주 컨셉의 카페 + 시그니처 음료','03133332222');
+insert into proposer values('음식점','그 외','마두역','포장마차','김치말이 꼭 먹어볼 것',null);
+insert into proposer values('음식점','일식','백마역','긴자료코','돈까스 맛있는 집','03123578890');
+insert into proposer values('음식점','그 외','정발산역','오므라이스2547','오므라이스 맛집','03183322212');
+insert into proposer values('음식점','한식','백석역','내떡볶이집','떡볶이 맛있다','03198987777');
+insert into proposer values('음식점','한식','종로5가역','백제정육점','육회가 맛있는 집',null);
+insert into proposer values('음식점','그 외','홍대입구역','육구덮밥','소대창 무한리필 덮밥','07088886969');
+insert into proposer values('놀거리','실내','정발산역','보드게임 카페',null,'0312222232');
+insert into proposer values('놀거리','실외','정발산역','호수공원','일산의 랜드마크','01022439399');
+insert into proposer values('놀거리','실내','백마역','만화카페',null,'03145558790');
+insert into proposer values('놀거리','실내','종로5가역','광장시장','먹거리가 많은 시장',null);
+
+commit;
+
+col Name for a15
+col cat for a6
+col sub_cat for a7
+col sta for a10
+col sign for a15
+col tel for 999999999999
+select * from proposer;
+
+

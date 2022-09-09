@@ -1,0 +1,14 @@
+package CH6_확인문제;
+
+public class MemberService {
+	public boolean login(String id,String password){
+		if(id == "hong" && password == "12345")
+			return true;
+		else
+			return false;
+	}
+	
+	public void logout(){
+		System.out.println("록아웃 되었습니다.");
+	}
+}

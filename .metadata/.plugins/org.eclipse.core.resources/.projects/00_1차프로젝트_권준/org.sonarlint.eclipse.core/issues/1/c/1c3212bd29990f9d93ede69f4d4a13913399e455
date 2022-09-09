@@ -1,0 +1,158 @@
+
+j	java:S106¬"9Replace this use of System.out or System.err by a logger.(¬çÎïşÿÿÿÿHÍ9RMAJORZ
+CODE_SMELL
+j
+java:S2696X"6Make the enclosing method "static" or remove this set.(µ´ÓøÿÿÿÿHÎ9RCRITICALZ
+CODE_SMELL
+s
+java:S1659?"GDeclare "sch_subcat" and all following declarations on a separate line.(½‹†ÎHÏ9RMINORZ
+CODE_SMELL
+g	java:S1255"<This block of commented-out lines of code should be removed.(›ò•HÓ9RMAJORZ
+CODE_SMELL
+†
+java:S1192¯"QDefine a constant instead of duplicating this literal "ì¥ì†Œ ì´ë¦„ : " 3 times.(Ø¤è»ıÿÿÿÿHÔ9RCRITICALZ
+CODE_SMELL
+k
+java:S2696ü"6Make the enclosing method "static" or remove this set.(É’ó¼şÿÿÿÿHØ9RCRITICALZ
+CODE_SMELL
+Š	java:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿHÙ9RMINORZ
+CODE_SMELL
+}	java:S116?"RRename this field "sch_cat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹†ÎHÜ9RMINORZ
+CODE_SMELL
+j	java:S106§"9Replace this use of System.out or System.err by a logger.(±İ‚ŸúÿÿÿÿHİ9RMAJORZ
+CODE_SMELL
+}	java:S116?"RRename this field "sch_sta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹†ÎHŞ9RMINORZ
+CODE_SMELL
+~
+java:S3008:"RRename this field "sub_cat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÆÀ¸Hß9RMINORZ
+CODE_SMELL
+k
+java:S2696ú"6Make the enclosing method "static" or remove this set.(Ó¿‡øıÿÿÿÿHà9RCRITICALZ
+CODE_SMELL
+k
+java:S2696¯"6Make the enclosing method "static" or remove this set.(Ø¤è»ıÿÿÿÿHá9RCRITICALZ
+CODE_SMELL
+	java:S116*"TRename this field "sta_field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·×Ø Hâ9RMINORZ
+CODE_SMELL
+~
+java:S1192­"NDefine a constant instead of duplicating this literal "ì—­ ì´ë¦„ : " 3 times.(‹ß‚½Hã9RCRITICALZ
+CODE_SMELL
+k
+java:S2696»"6Make the enclosing method "static" or remove this set.(àçï¶üÿÿÿÿHç9RCRITICALZ
+CODE_SMELL
+l
+java:S1161Ê":Add the "@Override" annotation above this method signature(Ä ÏúüÿÿÿÿHè9RMAJORZ
+CODE_SMELL
+€	java:S116?"URename this field "sch_subcat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‹†ÎHê9RMINORZ
+CODE_SMELL
+f
+java:S2696é"6Make the enclosing method "static" or remove this set.(’¨óÖHë9RCRITICALZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hì9RMINORZ
+CODE_SMELL
+k
+java:S2696û"6Make the enclosing method "static" or remove this set.(šöÊİşÿÿÿÿHí9RCRITICALZ
+CODE_SMELL
+T
+java:S1125¶"'Remove the unnecessary boolean literal.(ûÅŸHî9RMINORZ
+CODE_SMELL
+e
+java:S2696Y"6Make the enclosing method "static" or remove this set.(’¨óÖHñ9RCRITICALZ
+CODE_SMELL
+k
+java:S2696Ğ"6Make the enclosing method "static" or remove this set.(‰ú›½üÿÿÿÿHò9RCRITICALZ
+CODE_SMELL
+k
+java:S2696¿"6Make the enclosing method "static" or remove this set.(É’ó¼şÿÿÿÿHó9RCRITICALZ
+CODE_SMELL
+m	java:S125Ä"<This block of commented-out lines of code should be removed.(êƒ†ùÿÿÿÿHô9RMAJORZ
+CODE_SMELL
+d
+java:S1117İ"7Rename "arr" which hides the field declared at line 29.(¶ªÍ×Hõ9RMAJORZ
+CODE_SMELL
+X
+java:S19487")Make "rowData" transient or serializable.(“Æà£Hö9RCRITICALZ
+CODE_SMELL
+f
+java:S2696ı"6Make the enclosing method "static" or remove this set.(ï° àH÷9RCRITICALZ
+CODE_SMELL
+„
+java:S2142¹"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€Hø9RMAJORZBUG
+k
+java:S2696Õ"6Make the enclosing method "static" or remove this set.(—¼³¾ûÿÿÿÿHù9RCRITICALZ
+CODE_SMELL
+k
+java:S2696ø"6Make the enclosing method "static" or remove this set.(àçï¶üÿÿÿÿHú9RCRITICALZ
+CODE_SMELL
+k
+java:S2696¾"6Make the enclosing method "static" or remove this set.(šöÊİşÿÿÿÿHû9RCRITICALZ
+CODE_SMELL
+f
+java:S2696À"6Make the enclosing method "static" or remove this set.(ï° àHü9RCRITICALZ
+CODE_SMELL
+f
+java:S2696ù"6Make the enclosing method "static" or remove this set.(Ñà·˜Hı9RCRITICALZ
+CODE_SMELL
+H
+java:S3626¼"Remove this redundant jump.(ÉŠ©ƒHş9RMINORZ
+CODE_SMELL
+f
+java:S2696­"6Make the enclosing method "static" or remove this set.(‹ß‚½Hÿ9RCRITICALZ
+CODE_SMELL
+f
+java:S2696Î"6Make the enclosing method "static" or remove this set.(™ÑÄH€:RCRITICALZ
+CODE_SMELL
+k
+java:S2696½"6Make the enclosing method "static" or remove this set.(Ó¿‡øıÿÿÿÿH:RCRITICALZ
+CODE_SMELL
+f
+java:S2696¼"6Make the enclosing method "static" or remove this set.(Ñà·˜H‚:RCRITICALZ
+CODE_SMELL
+}	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒçíïHƒ:RMINORZ
+CODE_SMELL
+Y
+java:S1948"%Make "arr" transient or serializable.(ÈÇòìıÿÿÿÿH„:RCRITICALZ
+CODE_SMELL
+‡
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¼ ÒşüÿÿÿÿH…:RCRITICALZ
+CODE_SMELL
+W
+java:S1659+"&Declare "showname" on a separate line.( ûøıÿÿÿÿH“:RMINORZ
+CODE_SMELL
+k
+java:S2696Ó"6Make the enclosing method "static" or remove this set.(‡¡†øúÿÿÿÿH•:RCRITICALZ
+CODE_SMELL
+ƒ
+java:S1192¤"NDefine a constant instead of duplicating this literal "ì—ëŸ¬ ë°œìƒ" 3 times.(ªîñ ûÿÿÿÿH–:RCRITICALZ
+CODE_SMELL
+d
+java:S1854Ñ"7Remove this useless assignment to local variable "cnt".(ªî¼Hš:RMAJORZ
+CODE_SMELL
+o
+java:S1659("CDeclare "modify" and all following declarations on a separate line.(ËİıH›:RMINORZ
+CODE_SMELL
+f
+java:S2696Ñ"6Make the enclosing method "static" or remove this set.(‘Æñ•H£:RCRITICALZ
+CODE_SMELL
+j	java:S106«"9Replace this use of System.out or System.err by a logger.(Ó¶…ˆüÿÿÿÿH¤:RMAJORZ
+CODE_SMELL
+	java:S100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ñ‡ıÿÿÿÿH¥:RMINORZ
+CODE_SMELL
+k
+java:S2696Ò"6Make the enclosing method "static" or remove this set.(ï™–·ÿÿÿÿÿH¦:RCRITICALZ
+CODE_SMELL
+k
+java:S2696Ï"6Make the enclosing method "static" or remove this set.(Ä¢³‘úÿÿÿÿH§:RCRITICALZ
+CODE_SMELL
+k
+java:S2696…"6Make the enclosing method "static" or remove this set.(¤·ô¸üÿÿÿÿH¨:RCRITICALZ
+CODE_SMELL
+{
+java:S1192["GDefine a constant instead of duplicating this literal "Serif" 14 times.(´Äà—üÿÿÿÿH©:RCRITICALZ
+CODE_SMELL
+d	java:S106£"9Replace this use of System.out or System.err by a logger.(òºŒaH¸:RMAJORZ
+CODE_SMELL
+k
+java:S2696è"6Make the enclosing method "static" or remove this set.(µ´ÓøÿÿÿÿH¹:RCRITICALZ
+CODE_SMELL

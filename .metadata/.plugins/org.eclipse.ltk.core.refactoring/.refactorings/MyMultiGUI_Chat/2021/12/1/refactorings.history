@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;MultiChat_Server&apos; to &apos;ServerSocket_Thread&apos;&#x0D;&#x0A;- Original project: &apos;MyMultiGUI_Chat&apos;&#x0D;&#x0A;- Original element: &apos;MultiChat_Server&apos;&#x0D;&#x0A;- Renamed element: &apos;ServerSocket_Thread&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MultiChat_Server&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{MultiChat_Server.java[MultiChat_Server" matchStrategy="1" name="ServerSocket_Thread" qualified="false" references="true" similarDeclarations="false" stamp="1640686747497" textual="false" version="1.0"/>
+</session>

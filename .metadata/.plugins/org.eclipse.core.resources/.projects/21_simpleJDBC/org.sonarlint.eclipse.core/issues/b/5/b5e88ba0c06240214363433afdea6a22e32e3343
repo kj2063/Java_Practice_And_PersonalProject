@@ -1,0 +1,32 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(å¾²—Hñ2RMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(³èÚãÿÿÿÿÿHò2RMAJORZ
+CODE_SMELL
+c
+java:S6126+"2Replace this String concatenation with Text block.(ï§Ù¨úÿÿÿÿHó2RMAJORZ
+CODE_SMELL
+i
+java:S2479,":Remove the non-escaped \u0009 character from this literal.(›È¿¾Hô2RCRITICALZ
+CODE_SMELL
+n
+java:S2479-":Remove the non-escaped \u0009 character from this literal.(°½¬ùÿÿÿÿHõ2RCRITICALZ
+CODE_SMELL
+i
+java:S2479.":Remove the non-escaped \u0009 character from this literal.(Øù»şHö2RCRITICALZ
+CODE_SMELL
+c	java:S106:"9Replace this use of System.out or System.err by a logger.(ìŒ¸H÷2RMAJORZ
+CODE_SMELL
+i	java:S106="9Replace this use of System.out or System.err by a logger.(ˆˆˆÿÿÿÿÿHø2RMAJORZ
+CODE_SMELL
+d	java:S106?"9Replace this use of System.out or System.err by a logger.(­“—Hù2RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hú2RMINORZ
+CODE_SMELL
+{
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·ë¡ãøÿÿÿÿHû2RBLOCKERZBUG
+o
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(…®è Hü2RBLOCKERZBUG
+v
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÀÖĞ½Hı2RBLOCKERZBUG

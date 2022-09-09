@@ -1,0 +1,78 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(å¾²—Hş4RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(èâªƒHÿ4RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ˆˆˆÿÿÿÿÿH€5RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(òº¹½ıÿÿÿÿH5RMAJORZ
+CODE_SMELL
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îöØ®üÿÿÿÿH‚5RMINORZ
+CODE_SMELL
+~	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãğÉ®şÿÿÿÿHƒ5RMINORZ
+CODE_SMELL
+e	java:S106"9Replace this use of System.out or System.err by a logger.(ñÆûšH„5RMAJORZ
+CODE_SMELL
+j	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(¦ŒÁîÿÿÿÿÿH…5RMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(”ø H†5RMAJORZ
+CODE_SMELL
+j	java:S106…"9Replace this use of System.out or System.err by a logger.(Ó²ëÒúÿÿÿÿH‡5RMAJORZ
+CODE_SMELL
+j	java:S106·"9Replace this use of System.out or System.err by a logger.(‰¯š¾ıÿÿÿÿHˆ5RMAJORZ
+CODE_SMELL
+Š
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¥–ÏüÿÿÿÿH‰5RMINORZ
+CODE_SMELL
+Š
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã»ú“úÿÿÿÿH‹5RMINORZ
+CODE_SMELL
+‹
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã»ú“úÿÿÿÿH5RMINORZ
+CODE_SMELL
+¡
+java:S1319Q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ëç¥ÚıÿÿÿÿH5RMINORZ
+CODE_SMELL
+¡
+java:S1319p"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“„—ÙûÿÿÿÿH’5RMINORZ
+CODE_SMELL
+
+java:S1319—"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(”˜ë»H•5RMINORZ
+CODE_SMELL
+	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óºœ»üÿÿÿÿH˜5RMINORZ
+CODE_SMELL
+}	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üÄúH™5RMINORZ
+CODE_SMELL
+‚	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óºœ»üÿÿÿÿHš5RMINORZ
+CODE_SMELL
+|	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‹¥PH›5RMINORZ
+CODE_SMELL
+|	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‹¥PHœ5RMINORZ
+CODE_SMELL
+b
+java:S4973„"<Strings and Boxed types should be compared using "equals()".(ŠÅŸßH5RMAJORZBUG
+F
+java:S1220""Move this file to a named package.H 5RMINORZ
+CODE_SMELL
+d
+java:S2259e"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªH¡5RMAJORZBUG
+e
+java:S2259Œ"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªH®5RMAJORZBUG
+e
+java:S2259Ö"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªH»5RMAJORZBUG
+d
+java:S2259/"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªH‡6RMAJORZBUG
+f
+java:S2259×"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”ÙH”6RMAJORZBUG
+e
+java:S2259ö"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªH‡7RMAJORZBUG
+e
+java:S2259Ã"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªH”7RMAJORZBUG
+e
+java:S2259¦"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªH­7RMAJORZBUG
+d
+java:S2259H"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ªHÌ7RMAJORZBUG
+e
+java:S2259f"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”ÙHÙ7RMAJORZBUG
+f
+java:S2259"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”ÙHæ7RMAJORZBUG

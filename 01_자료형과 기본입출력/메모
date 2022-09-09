@@ -1,0 +1,46 @@
+@글꼴, 글자 크기 변경
+-> window ->preference -> general -> appearence -> font -> edit
+@크기만 변경할때
+-> ctrl 에다 + or - 를 누르면 변경 가능
+
+@파일 이름 바꾸고 싶을때
+-> 파일 찍고 f2 누르기  or  오르쪽 버튼 눌러서 refactor -> rename
+
+@확실하게 실행하는 방법
+-> 코드 창에 오른쪽 클릭 -> run as -> 클릭
+
+--------------------------------------
+
+System.out.print : print함
+System.out.println : print 후 엔터
+print시 ''는 문자열을 출력할 수 없다.
+
+@여러줄 주석처리
+여러줄 블러처리후 ctrl + /   or   ctrl + shift + /
+
+@복붙
+ctrl + alt + 방향키
+
+@삭제
+원하는 줄 마우스 놓고 ctrl + D
+
+@줄 내용 이동
+원하는 줄 마우스 놓고 alt + 방향키
+
+@같은 단어를 한번에 바꾸는법 (??? 안됨)
+ctrl + alt + t
+
+@괄호 정리
+ctrl + a 누른후 ctrl + i
+
+@메서드 정의된곳 찾아가기
+ctrl + 가고싶은 메서드 정의 클릭
+
+@getter, setter 쉽게 만드는 법
+프로그램 상단의 Source -> generate Getter and Setter -> 선택후 generate
+
+@자동 모듈 import
+ctrl + shift + o(알파벳)
+
+@모든 파일 닫기
+ctrl + shift + w

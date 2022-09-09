@@ -1,0 +1,17 @@
+
+p
+java:S2147&"DCombine this catch with the one at line 36, which has the same body.(…Æ£ùHó4RMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(Ú∫åaHô4RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ø»ë„Hö4RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(–È⁄¢¸ˇˇˇˇHõ4RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hú4RMINORZ
+CODE_SMELL
+o
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÊÈ≤√Hù4RBLOCKERZBUG
+v
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¿÷–ΩHû4RBLOCKERZBUG

@@ -1,0 +1,25 @@
+memo.txt
+
+drop function test;
+
+drop table test;
+create table test(
+	num number,
+	name varchar2(10),
+	addr varchar2(10)
+);
+
+insert into test values(1,'kim','서울');
+insert into test values(2,'park','부산');
+
+commit;
+
+Update test set name='lee',addr='광주' where num=1;
+
+[JDBC 프로그래밍 단계]
+0. jar추가
+1. 드라이버 로드 class.forName("oracle~~")
+2. 계정에 접속 DriverManager.getConnection("jdbc~", "아이디", "비번");
+3. sql문 작성 =>분석 conn.prepareStatement(sql);
+4. sql문 실행 =>ps.executeUpdate();
+5. 접속끊기, 사용한 자원 반납

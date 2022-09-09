@@ -1,0 +1,41 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(áºµôHä;RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Äà²Hå;RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(—ˆé¹øÿÿÿÿHæ;RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(´²‰æHç;RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(°òûœøÿÿÿÿHè;RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(®ÚİÓşÿÿÿÿHé;RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ó„ùùÿÿÿÿHê;RMAJORZ
+CODE_SMELL
+m
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ş±˜êHë;RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ş±˜êHì;RMAJORZ
+CODE_SMELL
+d	java:S106!"9Replace this use of System.out or System.err by a logger.(«”­Hí;RMAJORZ
+CODE_SMELL
+i	java:S106&"9Replace this use of System.out or System.err by a logger.(ÙÜ²ÍøÿÿÿÿHî;RMAJORZ
+CODE_SMELL
+c	java:S106,"9Replace this use of System.out or System.err by a logger.(¦ÂÇiHï;RMAJORZ
+CODE_SMELL
+S
+java:S11250"'Remove the unnecessary boolean literal.(ôˆé¹Hğ;RMINORZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(Ùß»ùıÿÿÿÿHó;RMAJORZ
+CODE_SMELL
+Š
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¾„ıÿÿÿÿHô;RMINORZ
+CODE_SMELL
+	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¾„ıÿÿÿÿHö;RMINORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËÕô…ùÿÿÿÿH÷;RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hø;RMINORZ
+CODE_SMELL
